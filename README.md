@@ -35,5 +35,4 @@ python3 VolumeGestureControl.py
 
 :round_pushpin: [Click Here](https://youtu.be/A-CcfWS_IeI) to watch demo video
 
-
 :star2: If you liked the application, make sure to star this repo, Thankyou.
