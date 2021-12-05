@@ -24,7 +24,7 @@ Fork the repository and go to the respective folder from the terminal. Make sure
 terminal.
 
 ```
-python3 VolumeGesturecontrol.py
+python3 VolumeGestureControl.py
 ```
 :warning: Will only run successfully in macOS as it uses osascript, for windows OS you have to use the pycaw alternative.
 
