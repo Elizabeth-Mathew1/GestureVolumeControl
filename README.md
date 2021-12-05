@@ -1,4 +1,4 @@
-# Gesture Volume Control
+# :loudspeaker:  Gesture Volume Control
 #### A simple application to control your system's volume with hand gestures
 ---
 ### :mortar_board:  About the project
