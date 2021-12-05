@@ -4,9 +4,9 @@
 ### :mortar_board:  About the project
 
 Gesture Volume Control is a simple application, in which the user can use simple hand getsures to change the system volume. This is made using OpenCV,
-which is a library of Python bindings designed to solve computer vision problems. The project also uses Osascript, which is used for running Aplle scripts 
-and manipulate the systems volume. So if you are chilling, listening to your favourite spotify track, 
-and you feel the volume is just not right, it can be changed in the gentle swish and flick of your hands.
+which is a library of Python bindings designed to solve computer vision problems. The project also uses Osascript, which is used for running Apple scripts 
+and manipulate the system's volume. So if you are chilling, listening to your favourite spotify track, 
+and you feel the volume is just not right, it can be changed in a gentle swish and flick of your hands.
 
 ---
 ### :pencil2: Requirements
@@ -20,13 +20,13 @@ and you feel the volume is just not right, it can be changed in the gentle swish
 ---
 ### :checkered_flag: How to run the project
 
-Fork the repository and go to the respective folder from the terminal. Make sure you have installed all the necessary dependencies. write the following code in 
+Fork the repository and go to the respective folder from the terminal. Make sure you have installed all the necessary dependencies. Write the following code in 
 terminal.
 
 ```
 python3 VolumeGesturecontrol.py
 ```
-:warning: Will only run successfully in macOS as it uses osascript, for windows systems you have to use pycaw alternative.
+:warning: Will only run successfully in macOS as it uses osascript, for windows OS you have to use the pycaw alternative.
 
 ---
 ### :circus_tent: Demonstration
